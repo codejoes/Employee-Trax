@@ -44,4 +44,5 @@ You may send any additional questions [here](josephscodes@gmail.com)!
 ## App
 
 [GitHub Repo](https://github.com/codejoes/Employee-Trax)
+
 ![Screenshot of CLI]()
